@@ -1,6 +1,6 @@
 <?php
 
-$Array = array(5, 7, 2, 33, 6, 11, 8, 77, 56);
+$Array = [5, 7, 2, 33, 6, 11, 8, 77, 56];
 
 
 function findMIN($arr)
